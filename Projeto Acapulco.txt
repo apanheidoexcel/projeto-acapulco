@@ -10,3 +10,9 @@ Seu Madruga
 Chiquinha
 Dona Clotilde
 Senhor Barriga
+
+CENÁRIOS
+
+A vila do Cortiço é um pequeno vilarejo que possui casas bem simples que são alugadas pelo Senhor Barriga.
+A vila possui algumas áreas em comum sendo que a principal é aonde o Chaves tem seu barril.
+A outra área possui uma fonte aonde as crianças costumam brincar algumas vezes.
